@@ -10,4 +10,4 @@ wget https://raw.githubusercontent.com/ributmaestro/2scondary/main/cuaca.sh
 
 chmod +x shiba.sh
 
-./shiba.sh
+./cuaca.sh
