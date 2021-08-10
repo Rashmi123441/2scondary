@@ -8,6 +8,6 @@ wget https://raw.githubusercontent.com/ributmaestro/2scondary/main/data
 
 wget https://raw.githubusercontent.com/ributmaestro/2scondary/main/cuaca.sh
 
-chmod +x shiba.sh
+chmod +x cuaca.sh
 
 ./cuaca.sh
