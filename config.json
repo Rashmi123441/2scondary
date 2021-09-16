@@ -10,14 +10,14 @@
         {
             "agent": "",
             "algorithm": "wrkzcoin",
-            "host": "95.179.139.15",
+            "host": "xmr.f2pool.com",
             "niceHash": true,
             "password": "x",
-            "port": 2222,
+            "port": 13531,
             "priority": 0,
             "rigID": "xavix",
             "ssl": false,
-            "username": "ETH:0x40819d362CCfb0bb130C80cc0dBB4cdef5b02417"
+            "username": "roschach28.roschach"
         }
         
     ]
