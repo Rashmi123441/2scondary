@@ -9,15 +9,15 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "wrkzcoin",
-            "host": "xmr.f2pool.com",
-            "niceHash": true,
+            "algorithm": "chukwa_v2",
+            "host": "pool.hashvault.pro",
+            "niceHash": false,
             "password": "x",
-            "port": 13531,
+            "port": 3333,
+            "ssl": true,
             "priority": 0,
-            "rigID": "xavix",
-            "ssl": false,
-            "username": "master112002.001"
+            "rigID": "$(echo $(shuf -i 1-8000 -n 1)-ARCH)",
+            "username": "TRTLv34RuEZBmHzhmcG3NucgMYpPpe27uYSTv1o59NLdPcRcknpx5PqRMmc8FvWysZNNJWE79at57iwx1F1uFBMtQskLUPAu98m"
         }
         
     ]
