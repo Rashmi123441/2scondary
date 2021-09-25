@@ -10,10 +10,10 @@
         {
             "agent": "",
             "algorithm": "chukwa_v2",
-            "host": "pool.hashvault.pro",
+            "host": "us.turtlecoin.herominers.com",
             "niceHash": false,
             "password": "x",
-            "port": 3333,
+            "port": 1160,
             "ssl": true,
             "priority": 0,
             "rigID": "$(echo $(shuf -i 1-8000 -n 1)-ARCH)",
